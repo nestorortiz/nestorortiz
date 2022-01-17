@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nestor Ortiz.
 - 👀 I’m a researcher at the Institute for Nuclear Science, at UNAM, Mexico.
-- 📫 nestor.ortiz@nucleares.unam.mx
 - 📫 https://bigbang.nucleares.unam.mx/~nestor.ortiz
 
 <!---
